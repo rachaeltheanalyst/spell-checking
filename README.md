@@ -60,3 +60,5 @@ For example: java SpellChecker < sonnet.txt
 [Back to ToC](#toc)
 
 The concept for this project is due to [**David Eck**](https://math.hws.edu/eck/).
+
+This project makes use of classes written by Professor Nick Howe for testing and measuring the execution time of the program.
